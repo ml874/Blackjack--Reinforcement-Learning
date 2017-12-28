@@ -10,5 +10,5 @@ TODO
 1. Complete Double Down Implementation
 2. Complete Splitting Implentation
 3. Complete Varying Bet Implementation
-4. Understand by Q-Learner isn't learning doubling down.
+4. Understand why Q-Learner isn't learning doubling down.
 5. Understand why DQN isn't learning well.
